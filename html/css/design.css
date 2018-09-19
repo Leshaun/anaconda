@@ -9,3 +9,6 @@ strong {
 em {
 	font-style: normal;
 }
+p:first-of-type {
+	color:blue;
+}
