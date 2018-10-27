@@ -12,3 +12,6 @@ em {
 p:first-of-type {
 	color:blue;
 }
+::first-letter {
+	color: green;
+}
